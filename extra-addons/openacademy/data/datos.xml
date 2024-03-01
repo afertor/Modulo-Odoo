@@ -1,0 +1,8 @@
+<odoo>
+    <data>
+        <record model="test_model" id="openacademy.nombres">
+            <field name="name">Pablo</field>
+            <field name="description">Plaza España</field>
+        </record>
+    </data>
+</odoo>
